@@ -35,3 +35,12 @@ const sayHello = (num) => {
 **Epam Systems:** Software test automation engineer<br>
 **Sibers:** QA engineer
 
+### Education
+
+**International Ala-too university:** Software engineer<br>
+**Epam Test automation lab**
+
+### English Language
+
+_Engilsh level: B2_<br>
+_Sometimes tying to communicate with native speakers_
