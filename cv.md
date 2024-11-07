@@ -3,7 +3,8 @@
 
 ### Contact information
 _city: Bishkek_<br>
-_phone number: +996709009575_
+_phone number: +996709009575_<br>
+discord: Daniiar Arkabaev(@don0043)
 
 ### Brief information about me
 _I used to be involved in test automation, so I have basic knowledge of Javascript_
