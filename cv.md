@@ -2,7 +2,7 @@
 ![avatar](./images/ImportedPhoto.748943989.438963.jpeg)
 
 ### Contact information
-_city: Bishkek_
+_city: Bishkek_<br>
 _phone number: +996709009575_
 
 ### Brief information about me
@@ -32,6 +32,6 @@ const sayHello = (num) => {
 ```
 ### Work Experience
 
-**Epam Systems:** Software test automation engineer
+**Epam Systems:** Software test automation engineer<br>
 **Sibers:** QA engineer
 
